@@ -13,7 +13,7 @@ timezone: ''
 
 # URL1
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://tangbinqiang.github.io/HexoBlog-TomCodeHub-A #小新这里的路径末尾不要/，否则可能导致CF无法加载出样式
+url: https://tangbinqiang.github.io/HexoBlog-TomCodeHub_A #小新这里的路径末尾不要/，否则可能导致CF无法加载出样式
 root: /   
 permalink: :year/:month/:day/:title/
 permalink_defaults:
