@@ -11,7 +11,7 @@ author: John Doe
 language: en
 timezone: ''
 
-# URL1
+# URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://tangbinqiang.github.io/HexoBlog-TomCodeHub-A/
 permalink: :year/:month/:day/:title/
