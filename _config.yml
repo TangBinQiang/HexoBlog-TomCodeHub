@@ -14,7 +14,7 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://tangbinqiang.github.io/HexoBlog-TomCodeHub-A #小新这里的路径末尾不要/，否则可能导致CF无法加载出样式
-root: /HexoBlog-TomCodeHub-A/   #添加这个配置，不然claudeflare样式不显示
+root: /   #添加这个配置，不然claudeflare样式不显示
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
