@@ -53,11 +53,6 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      # 在构建步骤中添加配置修改
-      - name: Configure for GitHub Pages
-        run: |
-          sed -i 's|root: /|root: /HexoBlog-TomCodeHub-A/|g' _config.yml
-
       # 清理并构建 Hexo 站点
       - name: Clean and Build Hexo site
         run: |
